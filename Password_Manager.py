@@ -1,10 +1,6 @@
 from cryptography.fernet import Fernet
 import sys
 
-import a as a
-import passwords as passwords
-from Tools.scripts.serve impor
-
 ''' 
 def write_key():
     key = Fernet.generate_key()
